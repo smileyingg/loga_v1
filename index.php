@@ -274,27 +274,27 @@
           <div class="card-body">
             <label class="container">
               <p>มีจำนวนช่างทำเล็บฝีมือดีเพียงพอ</p>
-              <input class="Seven" type="checkbox" id="q7_c1" name="q7" value="มีจำนวนช่างทำเล็บฝีมือดีเพียงพอ" onclick="Q7()">
+              <input class="Seven" type="checkbox" id="q7_c1" name="q7" value="มีจำนวนช่างทำเล็บฝีมือดีเพียงพอ">
               <span class="checkmark"></span>
             </label>
             <label class="container">
               <p>มีผู้เชี่ยวชาญเฉพาะด้าน/ช่างฝีมือพิเศษในการทำเล็บ เช่น เพ้นท์สี ทำลวดลาย ติด Accessory</p>
-              <input class="Seven" type="checkbox" id="q7_c2" name="q7" value="มีผู้เชี่ยวชาญเฉพาะด้าน/ช่างฝีมือพิเศษในการทำเล็บ เช่น เพ้นท์สี ทำลวดลาย ติด Accessory" onclick="Q7()">
+              <input class="Seven" type="checkbox" id="q7_c2" name="q7" value="มีผู้เชี่ยวชาญเฉพาะด้าน/ช่างฝีมือพิเศษในการทำเล็บ เช่น เพ้นท์สี ทำลวดลาย ติด Accessory">
               <span class="checkmark"></span>
             </label>
             <label class="container">
               <p>มีช่างทำเล็บเพียงพื้นฐาน เช่น ทาสีเล็บ ล้าง/ถอดสีเล็บ</p>
-              <input class="Seven" type="checkbox" id="q7_c3" name="q7" value="มีช่างทำเล็บเพียงพื้นฐาน เช่น ทาสีเล็บ ล้าง/ถอดสีเล็บ" onclick="Q7()">
+              <input class="Seven" type="checkbox" id="q7_c3" name="q7" value="มีช่างทำเล็บเพียงพื้นฐาน เช่น ทาสีเล็บ ล้าง/ถอดสีเล็บ" >
               <span class="checkmark"></span>
             </label>
             <label class="container">
               <p>มีจำนวนช่างทำเล็บเพียงพอทุกประเภทงาน แต่ยังต้องพัฒนาฝีมือ</p>
-              <input class="Seven" type="checkbox" id="q7_c4" name="q7" value="มีจำนวนช่างทำเล็บเพียงพอทุกประเภทงาน แต่ยังต้องพัฒนาฝีมือ" onclick="Q7()">
+              <input class="Seven" type="checkbox" id="q7_c4" name="q7" value="มีจำนวนช่างทำเล็บเพียงพอทุกประเภทงาน แต่ยังต้องพัฒนาฝีมือ">
               <span class="checkmark"></span>
             </label>
             <label class="container">
               <p>กำลังประสบปัญหาช่างทำเล็บไม่เพียงพอ</p>
-              <input class="Seven" type="checkbox" id="q7_c5" name="q7" value="กำลังประสบปัญหาช่างทำเล็บไม่เพียงพอ" onclick="Q7()">
+              <input class="Seven" type="checkbox" id="q7_c5" name="q7" value="กำลังประสบปัญหาช่างทำเล็บไม่เพียงพอ">
               <span class="checkmark"></span>
             </label>
           </div>
@@ -381,27 +381,27 @@
           <div class="card-body">
             <label class="container">
               <p>ร้านมีชื่อเสียง และ/หรือตกแต่งสวยงาม</p>
-              <input class="Ten" type="checkbox" id="q10_c1" name="q10" value="ร้านมีชื่อเสียง และ/หรือตกแต่งสวยงาม" onclick="Q10_C1()">
+              <input class="Ten" type="checkbox" id="q10_c1" name="q10" value="ร้านมีชื่อเสียง และ/หรือตกแต่งสวยงาม">
               <span class="checkmark"></span>
             </label>
             <label class="container">
               <p>ใช้ผลิตภัณฑ์ และอุปกรณ์คุณภาพดี</p>
-              <input class="Ten" type="checkbox" id="q10_c2" name="q10" value="ใช้ผลิตภัณฑ์ และอุปกรณ์คุณภาพดี" onclick="Q10_C2()">
+              <input class="Ten" type="checkbox" id="q10_c2" name="q10" value="ใช้ผลิตภัณฑ์ และอุปกรณ์คุณภาพดี">
               <span class="checkmark"></span>
             </label>
             <label class="container">
               <p>ราคา</p>
-              <input class="Ten" type="checkbox" id="q10_c3" name="q10" value="ราคา" onclick="Q10_C3()">
+              <input class="Ten" type="checkbox" id="q10_c3" name="q10" value="ราคา">
               <span class="checkmark"></span>
             </label>
             <label class="container">
               <p>ช่างทำเล็บฝีมือดี ลูกค้าพอใจคุณภาพการบริการ</p>
-              <input class="Ten" type="checkbox" id="q10_c4" name="q10" value="ช่างทำเล็บฝีมือดี ลูกค้าพอใจคุณภาพการบริการ" onclick="Q10_C4()">
+              <input class="Ten" type="checkbox" id="q10_c4" name="q10" value="ช่างทำเล็บฝีมือดี ลูกค้าพอใจคุณภาพการบริการ" >
               <span class="checkmark"></span>
             </label>
             <label class="container">
               <p>เดินทางสะดวก มีที่จอดรถ</p>
-              <input class="Ten" type="checkbox" id="q10_c5" name="q10" value="เดินทางสะดวก มีที่จอดรถ" onclick="Q10_C5()">
+              <input class="Ten" type="checkbox" id="q10_c5" name="q10" value="เดินทางสะดวก มีที่จอดรถ">
               <span class="checkmark"></span>
             </label>
           </div>
